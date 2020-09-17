@@ -9,8 +9,8 @@ print('''
 [3]Phone no. lookup
 
 ''')
-while True:
-    try:
+try:
+    while True:
         command= input('InfoG> ')
         if command == '1':
             domain_name()
