@@ -9,16 +9,17 @@ print('''
 [3]Phone no. lookup
 
 ''')
-try:
-    command= input('InfoG> ')
-    if command == '1':
-        domain_name()
-    elif command == '2':
-        ip_lookup()
-    elif command == '3':
-        ph_num_lookup()
-    else:
-        print('Enter a valid command')
+while True:
+    try:
+        command= input('InfoG> ')
+        if command == '1':
+            domain_name()
+        elif command == '2':
+            ip_lookup()
+        elif command == '3':
+            ph_num_lookup()
+        else:
+            print('Enter a valid command')
 
 except KeyboardInterrupt:
     tool_name()
