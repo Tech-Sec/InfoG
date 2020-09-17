@@ -1,4 +1,17 @@
 # InfoG
-InfoG is an information gathering tool. You can find ip addresses, phone number details and much more.
+InfoG (it's Info-jee) is an information gathering tool. You can find ip addresses, phone number details and much more.
 
-**WILL BE READY SOON**
+
+**How to use:**
+
+First clone the repository\
+**git clone https://github.com/Tech-Sec/InfoG.git**
+
+Change your directory to InfoG  folder\
+**cd InfoG**
+
+In the terminal, type:\
+**python InfoG.py**\
+![](img_1.png)
+
+and get started!!!
