@@ -13,9 +13,17 @@ Change your directory to InfoG  folder:\
 Then type:\
 **pip install -r requirements.txt**
 
-In the terminal, type:\
+After that, type:\
 **python InfoG.py**
 
 ![](img_1.png)
 
-and get started!!!
+
+Option 1 will give you the ip address of the domain name you type.\
+(Don't type the domain name with the protocol. eg: ~~https://google.com~~, instead type: www.google.com
+
+Option 2 gives you the country name, city, gps coordinates and much more about an ip address.
+
+Option 3 just gives you the country and service provider of aa specific mobile number.
+
+**FOR EDUCATIONAL PURPOSES ONLY**
