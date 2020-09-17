@@ -14,7 +14,8 @@ Then type:\
 **pip install -r requirements.txt**
 
 In the terminal, type:\
-**python InfoG.py**\
+**python InfoG.py**
+
 ![](img_1.png)
 
 and get started!!!
