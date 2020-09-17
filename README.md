@@ -24,6 +24,7 @@ Option 1 will give you the ip address of the domain name you type.\
 
 Option 2 gives you the country name, city, gps coordinates and much more about an ip address.
 
-Option 3 just gives you the country and service provider of aa specific mobile number.
+Option 3 just gives you the country and service provider of aa specific mobile number.\
+Enter yor phone number with the country code. eg: +1xxxxxxxxxxxx
 
 **FOR EDUCATIONAL PURPOSES ONLY**
