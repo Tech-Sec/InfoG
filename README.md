@@ -35,7 +35,7 @@ IP-Grabber by ![Krishna Pranav](https://github.com/krishpranav/IP-Grabber)
 Now you can grab the ip address of your target by sending him a lure link. You can get the ip address, browser details etc. 
 
 **Note**\
-IP-Grabber is only available on non-Windows platform. For more deatails check ![](IP-Grabber/README.md)
+IP-Grabber is only available on non-Windows platform. For more deatails check ![](/IP-Grabber/README.md)
 
 **Versions:**\
 **![v1.0](https://github.com/Tech-Sec/InfoG/archive/v1.0.zip)**
