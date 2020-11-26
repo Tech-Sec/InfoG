@@ -16,7 +16,7 @@ Then type:\
 After that, type:\
 **python3 InfoG.py**
 
-![](img_1.png)
+![](IMG_1.JPG)
 
 
 Option 1 will give you the ip address of the domain name you type.\
