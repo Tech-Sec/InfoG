@@ -2,6 +2,8 @@ import socket
 import phonenumbers
 import requests
 from phonenumbers import geocoder
+import os 
+import platform
 
 def tool_name():
     print('''
@@ -51,3 +53,10 @@ def ph_num_lookup():
     # put your phonenumber with the country code eg:+1xxxxxxxx
     print(carrier.name_for_number(service_provider,
                                   'en'))
+    
+    
+def ip_grabber():
+    if platform.system == 'Windows':
+        print('IP-Grabber is not supported on Windows')
+    else:
+        os.system(cd IP-Grabber && sudo chmod 777 * && bash ip-grabber.sh)
