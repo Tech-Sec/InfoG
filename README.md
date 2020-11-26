@@ -36,7 +36,7 @@ Now you can grab the ip address of your target by sending him a lure link. You c
 IP-Grabber is only available on non-Windows platform. For more deatails check ![](IP-Grabber/README.md)
 
 **Versions:**\
-![v1.0](https://github.com/Tech-Sec/InfoG/archive/v1.0.zip)
+**![v1.0](https://github.com/Tech-Sec/InfoG/archive/v1.0.zip)**
 
 
 **FOR EDUCATIONAL PURPOSES ONLY**
