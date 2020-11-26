@@ -27,6 +27,8 @@ Option 2 gives you the country name, city, gps coordinates and much more about a
 Option 3 just gives you the country and service provider of aa specific mobile number.\
 Enter yor phone number with the country code. eg: +1xxxxxxxxxxxx
 
+Option 4 will give you a lure link with which you can get the ip address of the target once he/she opens it.
+
 **New Feature in v2.0**\
 IP-Grabber by ![Krishna Pranav](https://github.com/krishpranav/IP-Grabber)
 
