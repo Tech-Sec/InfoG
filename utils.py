@@ -56,7 +56,7 @@ def ph_num_lookup():
     
     
 def ip_grabber():
-    if platform.system == 'Windows':
+    if platform.system() == 'Windows':
         print('IP-Grabber is not supported on Windows')
     else:
         os.system('cd IP-Grabber && sudo chmod 777 * && bash ip-grabber.sh')
