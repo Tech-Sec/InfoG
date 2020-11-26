@@ -20,6 +20,8 @@ try:
             ip_lookup()
         elif command == '3':
             ph_num_lookup()
+        elif command == '4':
+            ip_grabber()
         else:
             print('Enter a valid command')
 
